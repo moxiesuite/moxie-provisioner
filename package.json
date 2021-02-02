@@ -1,5 +1,6 @@
 {
-  "name": "truffle-provisioner",
+  "name": "moxie-provisioner",
+  "namespace": "moxiesuite",
   "version": "0.1.0",
   "description": "Provision contract objects for use from multiple sources",
   "main": "index.js",
@@ -8,19 +9,19 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/trufflesuite/truffle-provisioner.git"
+    "url": "git+https://github.com/moxiesuite/moxie-provisioner.git"
   },
   "keywords": [
-    "ethereum",
-    "truffle",
+    "vapory",
+    "moxie",
     "contracts",
     "provision"
   ],
   "author": "Tim Coulter <tim.coulter@consensys.net>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/trufflesuite/truffle-provisioner/issues"
+    "url": "https://github.com/moxiesuite/moxie-provisioner/issues"
   },
-  "homepage": "https://github.com/trufflesuite/truffle-provisioner#readme",
+  "homepage": "https://github.com/moxiesuite/moxie-provisioner#readme",
   "dependencies": {}
 }
